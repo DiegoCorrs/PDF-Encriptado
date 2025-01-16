@@ -7,7 +7,7 @@ PDF Protector es un script en Python que utiliza la biblioteca `PyPDF2` para pro
 
 ## Requisitos
 
-- Python 3.x
+- Python
 - PyPDF2
 
 Puedes instalar `PyPDF2` utilizando pip:
